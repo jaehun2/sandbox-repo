@@ -1,0 +1,2 @@
+This is new_file.txt
+Hello there
